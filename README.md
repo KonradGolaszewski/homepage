@@ -1,6 +1,6 @@
 # Konrad Gołaszewski - moja strona
 
-https://raw.githubusercontent.com/KonradGolaszewski/homepage/main/images/share.png
+![Main Photo](https://raw.githubusercontent.com/KonradGolaszewski/homepage/main/images/share.png)
 
 ## Demo
 
