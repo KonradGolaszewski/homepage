@@ -10,7 +10,7 @@ https://konradgolaszewski.github.io/homepage/
 
 Hi everyone. This is my first homepage.
 
-## Sections:
+## Sections
 
 1. Brieflyt about me
 2. Experience
