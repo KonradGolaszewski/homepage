@@ -12,7 +12,7 @@ Hi everyone. This is my first homepage.
 
 ## Sections
 
-1. Brieflyt about me
+1. Briefly about me
 2. Experience
 3. Hobbies
 
