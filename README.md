@@ -1,4 +1,4 @@
-# Konrad Gołaszewski - moja strona
+# Konrad Gołaszewski - My first homepage
 
 ![Main Photo](https://raw.githubusercontent.com/KonradGolaszewski/homepage/main/images/share.png)
 
